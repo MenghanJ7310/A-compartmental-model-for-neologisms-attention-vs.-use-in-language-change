@@ -1,0 +1,2 @@
+﻿word,split_index,logistic_K,logistic_r,logistic_t0,R2_cumulative,RMSE_test_ARIMA,RMSE_test_Logistic,source_csv
+pet parent_result,1522,9969.281747077406,0.003031206633732028,1131.8551816157797,0.9878168074750107,3.932005212998122,4.725649754535054,pet parent_result.csv
